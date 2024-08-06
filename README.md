@@ -10,6 +10,16 @@
 1. **Python 3.x**: Переконайтеся, що у вас встановлено Python 3.
 2. **Бібліотеки Python**: Використовуйте файл `requirements.txt`, щоб встановити всі необхідні бібліотеки.
 
+## Джерело :
+
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+## Jupyter Notebook :
+
+https://www.datacamp.com/datalab/w/bfd3d69b-e77d-4fbc-adb6-cdb6e838fe1a/edit
+
+
+
 Щоб встановити бібліотеки, виконайте:
 ```bash
 pip install -r requirements.txt
@@ -26,5 +36,3 @@ pandas для роботи з даними
 numpy для чисельних обчислень
 matplotlib та seaborn для візуалізації даних
 jupyter для інтерактивного середовища (якщо використовуєте Jupyter Notebook)
-Автор
-Карина Вилупко
