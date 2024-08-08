@@ -50,9 +50,9 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Як використовувати проект
 1. Клонувати цей репозиторій:
-   ```bash
+   ```
    git clone  https://github.com/KarynaVyl/netflix-genres-analysis.git
-   ```bash
+   ```
 2. Перейти в директорію проекту:
    ```bash
    cd netflix-genres-analysis
