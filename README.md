@@ -10,9 +10,9 @@
 1. **Python 3.x**: Переконайтеся, що у вас встановлено Python 3.
 2. **Бібліотеки Python**: Використовуйте файл `requirements.txt`, щоб встановити всі необхідні бібліотеки.
 
-   ```bash
+   ```
    pip install -r requirements.txt
-
+   ```
 
 ## Джерело :
 
@@ -39,10 +39,20 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Фільми на Netflix переважно представляють такі жанри як `International Movies`, `Dramas`, у той час як серіали найбільш часто належать до жанрів `International TV Shows`, `TV Dramas`.
 - Візуалізації показують розподіл жанрів та їх популярність серед різних типів контенту.
 
+## Графік розподілу жанрів
+
+
+
+## Графік популярності жанрів у фільмах і серіалах
+
+
+
+
 ## Як використовувати проект
 1. Клонувати цей репозиторій:
    ```bash
-   git clone  https://github.com/KarynaVyl/netflix-genres-analysis.
+   git clone  https://github.com/KarynaVyl/netflix-genres-analysis.git
+   ```bash
 2. Перейти в директорію проекту:
    ```bash
    cd netflix-genres-analysis
@@ -53,3 +63,5 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Ліцензія
 Цей проект ліцензований під ліцензією MIT - деталі дивись у файлі LICENSE.
+
+
