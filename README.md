@@ -41,11 +41,11 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Графік розподілу жанрів
 
-![Genre Distribution](images/genre_distribution.png) 
+![Genre Distribution](genre_distribution.png) 
 
 ## Графік популярності жанрів у фільмах і серіалах
 
-![Genre Type Distribution](images/genre_type_distribution.png)
+![Genre Type Distribution](genre_type_distribution.png)
 
 ## Як використовувати проект
 1. Клонувати цей репозиторій:
